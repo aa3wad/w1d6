@@ -1,0 +1,16 @@
+.textarea {
+        font-size: 24pt;
+}
+
+.bold
+{
+    font-weight: bold;
+    color: green;
+    text-decoration: underline;
+}
+
+.normal
+{
+    font-weight: normal;
+}
+
